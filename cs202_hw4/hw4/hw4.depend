@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1620848117 source:c:\users\asus\desktop\4\hw4\node.cpp
+	<bits/stdc++.h>
+	<string>
+	<iostream>
+	"Node.h"
+
+1620848117 c:\users\asus\desktop\4\hw4\node.h
+	<bits/stdc++.h>
+	<string>
+	<iostream>
+
+1620848117 source:c:\users\asus\desktop\4\hw4\list.cpp
+	"List.h"
+	<cstddef>
+
+1620848117 c:\users\asus\desktop\4\hw4\list.h
+	<bits/stdc++.h>
+	<string>
+	<iostream>
+	"Node.h"
+
+1620848960 source:c:\users\asus\desktop\4\hw4\wordnetwork.cpp
+	"WordNetwork.h"
+	<iostream>
+	<sstream>
+
+1620849010 c:\users\asus\desktop\4\hw4\wordnetwork.h
+	<bits/stdc++.h>
+	<string>
+	<iostream>
+	"List.h"
+
+1620848338 source:c:\users\asus\desktop\4\hw4\main.cpp
+	"WordNetwork.h"
+	<iostream>
+

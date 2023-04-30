@@ -1,0 +1,48 @@
+# depslib dependency file v1.0
+1618775860 source:c:\users\asus\desktop\ödev3\hw3\keyeditem.cpp
+	"KeyedItem.h"
+
+1618776291 c:\users\asus\desktop\ödev3\hw3\keyeditem.h
+
+1618775767 source:c:\users\asus\desktop\ödev3\hw3\heap.cpp
+	"Heap.h"
+
+1618776291 c:\users\asus\desktop\ödev3\hw3\heap.h
+	<iostream>
+	"KeyedItem.h"
+
+1618775684 source:c:\users\asus\desktop\ödev3\hw3\priorityqueue.cpp
+	"PriorityQueue.h"
+	"PriorityQueue.h"
+
+1618776291 c:\users\asus\desktop\ödev3\hw3\priorityqueue.h
+	"Heap.h"
+
+1618775684 source:c:\users\asus\desktop\ödev3\hw3\requestarray.cpp
+	<iostream>
+	"RequestArray.h"
+	<sstream>
+
+1618776291 c:\users\asus\desktop\ödev3\hw3\requestarray.h
+	<iostream>
+	<fstream>
+	<string>
+	"KeyedItem.h"
+
+1618775612 source:c:\users\asus\desktop\ödev3\hw3\main.cpp
+	<iostream>
+	"Heap.h"
+	"PriorityQueue.h"
+	"RequestArray.h"
+	"Simulator.h"
+	<fstream>
+	<sstream>
+	<string>
+
+1618775612 source:c:\users\asus\desktop\ödev3\hw3\simulator.cpp
+	"Simulator.h"
+
+1618776291 c:\users\asus\desktop\ödev3\hw3\simulator.h
+	"PriorityQueue.h"
+	"RequestArray.h"
+

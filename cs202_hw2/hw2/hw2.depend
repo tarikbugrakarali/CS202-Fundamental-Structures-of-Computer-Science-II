@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1615919400 source:c:\users\asus\desktop\cs202 hw2\hw2\binarynode.cpp
+	"BinaryNode.h"
+	<stddef.h>
+
+1615920718 c:\users\asus\desktop\cs202 hw2\hw2\binarynode.h
+	<stdio.h>
+	<stddef.h>
+
+1616263480 source:c:\users\asus\desktop\cs202 hw2\hw2\binarysearchtree.cpp
+	"BinarySearchTree.h"
+	<iostream>
+	<stddef.h>
+
+1616263572 c:\users\asus\desktop\cs202 hw2\hw2\binarysearchtree.h
+	<stdio.h>
+	"BinaryNode.h"
+
